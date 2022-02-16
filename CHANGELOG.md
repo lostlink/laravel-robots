@@ -4,6 +4,11 @@ All Notable changes to `laravel-robots` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## 4.0.0 - 2022-02-15
+
+- PHP 8.1 support
+- Laravel 9 support
+
 ## 3.0.0 - 2021-05-18
 
 - PHP 8 support
@@ -11,7 +16,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 
 ## 2.1.0 - 2020-09-24
 
-Laravel 8 support
+- Laravel 8 support
 
 ## 2.0.0 - 2020-03-04
 
@@ -27,7 +32,7 @@ Laravel 8 support
 
 ## 1.3.0 - 2019-03-13
 
-Added support Laravel 5.8
+- Added support Laravel 5.8
 
 ## 1.2.0 - 2018-09-23
 
